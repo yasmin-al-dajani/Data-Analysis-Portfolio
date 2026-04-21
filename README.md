@@ -1,5 +1,6 @@
 # Yasmin Al-Dajani - Data Analysis Portfolio
-
+### ${\color{RoyalBlue}Data \space Analyst \space | \space Explorer \space | \space Storyteller}$
+--- 
 ## **About**
 
 Hi there!
@@ -18,7 +19,9 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
 
  In this section, you can explore the data analytics projects I've worked on, describing the technology stack I used to clean, transform, explore and analyze data. 
 
- ## Project 1 
+ ## Ad-hoc Analysis 
+
+ Project 1 
 
 
 ## Certifications 
