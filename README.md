@@ -21,8 +21,25 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
 
  ## Ad-hoc Analysis 
 
- Project 1 
+<details>
+  <summary>Project 1 / Title</summary>
 
+  #### Goal: 
+ 
+
+  #### Description: 
+  
+
+  #### Code: 
+  
+
+  #### Skills: 
+
+ 
+  #### Tech Stack: 
+ 
+
+</details>
 
 ## Certifications 
 
