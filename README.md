@@ -4,7 +4,7 @@
 ## **About**
 
 Hi there!
-Welcome to my Repository. Join me on my journey of discovering the beauty of Data and what we can learn from it. 
+Welcome to my World. Join me on my journey of discovering the beauty of Data and what we can learn from it. 
 Here you'll find a collection of Data Analytics Projects I've worked on.
 
 ## Tools
