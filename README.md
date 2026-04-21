@@ -15,7 +15,7 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
   
   Visualization:  Google Sheets, Looker Studios 
   
-  Reporting: Medium 
+  Reporting: [Medium](https://medium.com/@aldajani.yasmin)
 
  ## **Portfolio Projects**
 
