@@ -1,15 +1,12 @@
 # Yasmin Al-Dajani - Data Analysis Portfolio
 
-**About**
+## **About**
 
 Hi there!
 Welcome to my Repository. Join me on my journey of discovering the beauty of Data and what we can learn from it. 
 Here you'll find a collection of Data Analytics Projects I've worked on.
 
-## **Table of Contents**
-
-- [About](https://github.com/yasmin-al-dajani/Data-Analysis-Portfolio/edit/main/README.md#about)
-- [Tools](https://github.com/yasmin-al-dajani/Data-Analysis-Portfolio/edit/main/README.md#tools)
+## Tools
 
   Core Languages: SQL, Python, R 
   
@@ -22,3 +19,9 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
  In this section, you can explore the data analytics projects I've worked on, describing the technology stack I used to clean, transform, explore and analyze data. 
 
  ## Project 1 
+
+
+## Certifications 
+
+1. [Data Analytics Bootcamp Certification](https://kitt.lewagon.com/schoolings/46646/public_diploma?token=c17ef7f5c4fa328e45beae27bc5be0ea6e3f850bb5874cce9ad4c1274bf44c75)
+
