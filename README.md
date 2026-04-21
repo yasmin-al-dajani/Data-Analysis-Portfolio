@@ -9,7 +9,7 @@ Hi there!
 Welcome to my World. Join me on my journey of discovering the beauty of Data and what we can learn from it. 
 Here you'll find a collection of Data Analytics Projects I've worked on.
 
-## Tools
+## Tech Stack
 
 * Core Languages: SQL, Python, R 
   
@@ -24,7 +24,7 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
  ## Ad-hoc Analysis 
 
 <details>
-  <summary>Project 1 / Title</summary>
+  <summary> Electric Vehicles </summary>
 
   #### Goal: 
  
@@ -39,7 +39,7 @@ Here you'll find a collection of Data Analytics Projects I've worked on.
 
  
   #### Tech Stack: 
- 
+ PostgreSQL, VS Code, Github, PgAdmin 
 
 </details>
 
