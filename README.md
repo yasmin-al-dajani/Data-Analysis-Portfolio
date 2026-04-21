@@ -1,6 +1,8 @@
 # Yasmin Al-Dajani - Data Analysis Portfolio
 ### ${\color{RoyalBlue}Data \space Analyst \space | \space Explorer \space | \space Storyteller}$
 --- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-aldajani)    [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aldajani.yasmin)
+
 ## **About**
 
 Hi there!
